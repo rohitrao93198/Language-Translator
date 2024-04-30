@@ -11,3 +11,6 @@ This is a simple language translator web application built using pure HTML, CSS,
 - Fully responsive design ensures compatibility with desktop, tablet, and mobile devices.
 - Supports a wide range of languages, enabling users to translate to and from different language pairs.
 - Minimalistic and lightweight, ensuring fast loading times and smooth performance.
+- here is the live web application - https://rohitrao93198.github.io/Language-Translator/
+
+
